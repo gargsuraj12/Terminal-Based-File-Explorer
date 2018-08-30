@@ -17,3 +17,7 @@ using namespace std;
 #define KEY_SMALLH 104
 #define KEY_CAPH 72
 #define KEY_BACKSPACE 127
+
+/*int iRow = 1, iCol = 1;
+stack<string> pathStack;
+stack<char *> nextPathVec;*/
