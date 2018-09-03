@@ -3,8 +3,8 @@
 
 Guideline To Use FileExplorer  (FE)
 ------------------------------------------------------------------------
-Git Hub Repository :  
-Git Lab Repository : 
+Git Hub Repository : https://github.com/gargsuraj12/OSAssignment_TBFE.git
+Git Lab Repository : http://10.3.1.184/gargsuraj12/OSAssignment_TBFE.git
 ------------------------------------------------------------------------
 File Name : makef`ile 
 ------------------------------
