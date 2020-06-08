@@ -1,11 +1,4 @@
-# OSAssignment_TBFE
-#Name: Suraj Garg
-#Roll: 2018202003
-
 Guideline To Use FileExplorer  (FE)
-------------------------------------------------------------------------
-Git Hub Repository :  
-Git Lab Repository : http://10.3.1.184/gargsuraj12/OSAssignment_TBFE.git
 ------------------------------------------------------------------------
 File Name : makefile 
 ------------------------------
